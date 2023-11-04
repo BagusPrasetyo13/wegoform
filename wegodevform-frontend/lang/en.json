@@ -1,0 +1,13 @@
+{
+  "SERVER_ERROR": "Server Is Not Working For a While!",
+  "INVALID_PASSWORD": "Invalid Password!",
+  "USER_IS_NOT_FOUND": "Account Not Found!",
+  "EMAIL_IS_REQUIRED": "E-mail Must be Filled In!",
+  "PASSWORD_IS_REQUIRED": "Password Must be Filled In!",
+
+  "FIELD_REQUIRED": "This {field} Must be Filled in!",
+  "FIELD_MIN": "{field} Must be At Least {min} Character!",
+  "EMAIL_INVALID": "Invalid E-mail Format!",
+  "EMAIL_EXIST": "E-mail Has Been Registered!",
+  "FIELD_CONFIRM": "{fieldConfirm} Is Not the Same as {field}!"
+}

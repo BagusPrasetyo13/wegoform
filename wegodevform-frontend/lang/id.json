@@ -1,0 +1,13 @@
+{
+  "SERVER_ERROR": "Server Sedang Mengalami Gangguan!",
+  "INVALID_PASSWORD": "Password Salah!",
+  "USER_IS_NOT_FOUND": "Akun Tidak Ditemukan!",
+  "EMAIL_IS_REQUIRED": "E-mail Harus Diisi!",
+  "PASSWORD_IS_REQUIRED": "Password Harus Diisi!",
+
+  "FIELD_REQUIRED": "{field} Ini Harus Diisi!",
+  "FIELD_MIN": "{field} Minimal {min} Karakter!",
+  "EMAIL_INVALID": "Format E-mail Tidak Valid!",
+  "EMAIL_EXIST": "E-mail Sudah Terdaftar!",
+  "FIELD_CONFIRM": "{fieldConfirm} Tidak Sama Dengan {field}!"
+}
